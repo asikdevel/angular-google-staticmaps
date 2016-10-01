@@ -1,3 +1,11 @@
+<a name="v0.3.1"></a>
+## v0.3.1 (2016-10-01)
+
+
+#### Features
+
+* **deps:** Add https protocol to static url ([6da99a7](http://github.com/passy/angular-google-staticmaps/commit/6c6fcafdbb252cee40a935316e129b4437c7af05))
+
 <a name="v0.3.0"></a>
 ## v0.3.0 (2014-11-23)
 
